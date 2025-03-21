@@ -1,0 +1,17 @@
+GPT_Base_512_50_percent.pth
+Final Averaged Negative Log Probability: 29.776722879
+
+GPT_Base_512_100_percent.pth
+Final Averaged Negative Log Probability: 30.408664423
+
+GPT_Alpaca_512_100_percent.pth
+Final Averaged Negative Log Probability: 23.847629069
+
+GPT_512_100_percent.pth
+Final Averaged Negative Log Probability: 30.021206266
+
+GPT_512_100_2_percent.pth
+Final Averaged Negative Log Probability: 28.369326164
+
+GPT_512_50_2_percent.pth
+Final Averaged Negative Log Probability: 28.834833983

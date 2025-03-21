@@ -1,0 +1,170 @@
+stas/openwebtext-10k=====================================
+
+GPT_Base_512_100_percent.pth==========
+
+Total Loss: 45432752.03125
+Total Tokens: 4524790
+Average Loss: 10.040853173572696
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_100_percent.pth
+📊 Dataset Perplexity: 22944.958984375
+
+
+
+
+Total Loss: 48854494.0390625
+Total Tokens: 4524790
+Average Loss: 10.797074347994602
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_50_percent.pth
+📊 Dataset Perplexity: 48877.58984375
+
+
+Total Loss: 49149262.28515625
+Total Tokens: 4524790
+Average Loss: 10.862219525139565
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_100_2_percent.pth
+📊 Dataset Perplexity: 52167.75390625
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_512_100_percent.pth
+Processing Batches: 100%|██████████| 625/625 [03:34<00:00,  2.92batch/s]
+Total Loss: 47283469.39453125
+Total Tokens: 4524790
+Average Loss: 10.449870467918124
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_100_percent.pth
+📊 Dataset Perplexity: 34539.88671875
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_512_50_2_percent.pth
+Processing Batches: 100%|██████████| 625/625 [03:34<00:00,  2.92batch/s]
+Total Loss: 49085985.60546875
+Total Tokens: 4524790
+Average Loss: 10.848235079521647
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_50_2_percent.pth
+📊 Dataset Perplexity: 51443.28125
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_Alpaca_512_100_percent.pth
+Processing Batches: 100%|██████████| 625/625 [03:34<00:00,  2.92batch/s]
+Total Loss: 48648827.5703125
+Total Tokens: 4524790
+Average Loss: 10.751621085246498
+📌 Model: /kaggle/input/pretraning-mdl/GPT_Alpaca_512_100_percent.pth
+📊 Dataset Perplexity: 46705.6875
+
+
+
+
+
+
+
+
+open corpus========  5  K   ===============
+
+
+Total Loss: 733923.6469726562
+Total Tokens: 68108
+Average Loss: 10.775880175201976
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_100_percent.pth
+📊 Dataset Perplexity: 47852.55859375
+
+
+Loading model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_50_percent.pth
+Processing Batches: 100%|██████████| 313/313 [01:10<00:00,  4.46batch/s]
+Total Loss: 714611.2905883789
+Total Tokens: 68108
+Average Loss: 10.492325286139351
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_50_percent.pth
+📊 Dataset Perplexity: 36037.84375
+
+
+
+Total Loss: 789195.3857421875
+Total Tokens: 68108
+Average Loss: 11.587410961152692
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_100_2_percent.pth
+📊 Dataset Perplexity: 107732.96875
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_512_100_percent.pth
+Processing Batches: 100%|██████████| 313/313 [01:47<00:00,  2.92batch/s]
+Total Loss: 797161.8359375
+Total Tokens: 68108
+Average Loss: 11.704378867937686
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_100_percent.pth
+📊 Dataset Perplexity: 121100.8671875
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_512_50_2_percent.pth
+Processing Batches: 100%|██████████| 313/313 [01:47<00:00,  2.92batch/s]
+Total Loss: 756718.8125
+Total Tokens: 68108
+Average Loss: 11.110571628883537
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_50_2_percent.pth
+📊 Dataset Perplexity: 66874.421875
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_Alpaca_512_100_percent.pth
+Processing Batches: 100%|██████████| 313/313 [01:46<00:00,  2.93batch/s]
+Total Loss: 755247.3530273438
+Total Tokens: 68108
+Average Loss: 11.088966832491685
+📌 Model: /kaggle/input/pretraning-mdl/GPT_Alpaca_512_100_percent.pth
+📊 Dataset Perplexity: 65445.06640625
+
+
+medical=========================== Question =================
+
+
+Total Loss: 18441920.85546875
+Total Tokens: 1817850
+Average Loss: 10.14490791620252
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_100_percent.pth
+📊 Dataset Perplexity: 25461.123046875
+
+
+Loading model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_50_percent.pth
+Processing Batches: 100%|██████████| 1586/1586 [05:55<00:00,  4.46batch/s]
+Total Loss: 18817748.758789062
+Total Tokens: 1817850
+Average Loss: 10.351650993640323
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_50_percent.pth
+📊 Dataset Perplexity: 31308.697265625
+
+
+
+
+
+Total Loss: 19499381.657714844
+Total Tokens: 1817850
+Average Loss: 10.726617519440461
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_100_2_percent.pth
+📊 Dataset Perplexity: 45552.36328125
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_512_100_percent.pth
+Processing Batches: 100%|██████████| 1586/1586 [09:02<00:00,  2.92batch/s]
+Total Loss: 19006168.791503906
+Total Tokens: 1817850
+Average Loss: 10.455300927746462
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_100_percent.pth
+📊 Dataset Perplexity: 34727.9921875
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_512_50_2_percent.pth
+Processing Batches: 100%|██████████| 1586/1586 [09:02<00:00,  2.92batch/s]
+Total Loss: 19324972.85498047
+Total Tokens: 1817850
+Average Loss: 10.6306751684575
+📌 Model: /kaggle/input/pretraning-mdl/GPT_512_50_2_percent.pth
+📊 Dataset Perplexity: 41385.0625
+
+
+Loading model: /kaggle/input/pretraning-mdl/GPT_Alpaca_512_100_percent.pth
+Processing Batches: 100%|██████████| 1586/1586 [09:02<00:00,  2.92batch/s]
+Total Loss: 20345325.553222656
+Total Tokens: 1817850
+Average Loss: 11.19197158908747
+📌 Model: /kaggle/input/pretraning-mdl/GPT_Alpaca_512_100_percent.pth
+📊 Dataset Perplexity: 72545.6875
+
+

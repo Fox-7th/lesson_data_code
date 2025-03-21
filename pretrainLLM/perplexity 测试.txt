@@ -1,0 +1,20 @@
+第一句
+
+Total Loss: 659.45166015625
+Total Tokens: 512
+Average Loss: 1.2879915237426758
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_100_percent.pth
+📊 Dataset Perplexity: 3.625497579574585 
+
+第2句
+
+Total Loss: 523.8663940429688
+Total Tokens: 512
+Average Loss: 1.0231765508651733
+📌 Model: /kaggle/input/pretraning-another-2-mdl/GPT_Base_512_100_percent.pth
+📊 Dataset Perplexity: 2.782017946243286
+
+
+1+2
+
+10左右
